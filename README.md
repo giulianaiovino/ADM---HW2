@@ -7,4 +7,4 @@ The members of Team 28 are:
 * Seyed Behdad Ahmadi
 
 ### Contents
-Inside the repository it's possible to find the .ipynb file containing the relative analyses.
+Inside the repository it's possible to find the .ipynb file containing the analysis about Steam Review and the answers to theoretical questions.
